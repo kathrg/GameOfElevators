@@ -16,7 +16,7 @@ Additionally, the program uses the symbols "U" and "D" to indicate the direction
 ## Functions and Files Implemented
 * Functions: all functions above "DO NOT MODIFY ANY CODE BENEATH THIS LINE" in move.cpp, game.cpp, building.cpp, floor.cpp, elevator.cpp, and person.cpp.
 * Files: ai.cpp.
-* _Note: All other files and functions were provided for me by the University of Michigan EECS 183._
+* _Note: All other files, functions, and RMEs were provided for me by the University of Michigan EECS 183 and are subject to copyright laws._
 
 ## Scores
 Scores gained from the programmed AI using the various .in files (to test, change string variable NEW_FILENAME under utility.cpp to one of the provided .in files)
